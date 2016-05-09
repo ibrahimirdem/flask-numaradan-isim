@@ -1,0 +1,91 @@
+body{
+    background-color: beige;
+    font-family: Ubuntu;
+}
+#arama{
+
+    width: 290px;
+    height: 50px;
+    margin: auto;
+    padding-top: 250px;
+}
+#aciklama{
+    width: 270px;
+    height: 50px;
+    margin: auto;
+    padding-left: 30px;
+    font-family: Ubuntu;
+    font-size: 14px;
+    color: darkkhaki;
+}
+
+
+#search{
+    height: 30px;
+    padding-left:7px;
+    padding-right: 7px;
+    font-size: 14px;
+    font-family: Ubuntu;
+}
+
+#submit{
+    height: 30px;
+    background-color: bisque;
+    color: gray;
+    border:1px solid peachpuff;
+    text-shadow: 1px 1px peachpuff;
+    font-size: 14px;
+    font-family: Ubuntu;
+}
+
+#resim{
+    height:50px;
+    background-color: red;
+    width: 100px;
+
+}
+#ana{
+
+    margin:auto;
+    width:720px;
+    height:50px;
+    background-color: blue;
+}
+#icerik{
+    height:50px;
+    background-color: green;
+    width: 620px;
+}
+
+#orta {
+     width:940px;
+     height:100px;
+     margin:0 auto;
+     padding:0px;
+}
+#ortasol {
+    height:100px;
+    width:100px;
+    float:left;
+    padding-left:0px;
+}
+#ortasag {
+    font-family: Ubuntu;
+    font-size:24px;
+    color: chocolate;
+    height: 100px;
+    width: 560px;
+    background-color: antiquewhite;
+    float: left;
+    margin: 0 0 0 10px;
+    padding-left: 20px;
+}
+
+a {
+    color:chocolate;
+    text-decoration: None;
+
+}
+a:hover{
+    text-decoration: dashed;
+}
